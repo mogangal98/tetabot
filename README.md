@@ -26,17 +26,32 @@ Technical Highlights
 
 
 Screenshots
-![Main Menu](images/Mainmenu.png)
 
+<h3>Main Menu</h3>
+<img src="images/Mainmenu.png" alt="Main Menu" width="500"/>
 
-![Graph Selection Screen](images/Heatmaps.png)
+<h3>Graph Selection Screen</h3>
+<img src="images/Heatmaps.png" alt="Graph Selection Screen" width="500"/>
 
+<h3>Table Selection Screen</h3>
+<img src="images/Metrics.png" alt="Table Selection Screen" width="500"/>
 
-![Table Selection Screen](images/Metrics.png)
+<h3>Sample Graphs - Volume Heatmap</h3>
+<img src="images/volmap.png" alt="Sample Graphs - Volume Heatmap" width="500"/>
 
-![Sample Graphs - Volume Heatmap](images/volmap.png)
-![Sample Graphs - Liquidation Heatmap](images/liqmap.png)
-![Sample Graphs - Long-Short Metrics Chart](images/lsplot_buyuk.png)
+<h3>Sample Graphs - Liquidation Heatmap</h3>
+<img src="images/liqmap.png" alt="Sample Graphs - Liquidation Heatmap" width="500"/>
 
-![Coin Metrics Table](images/metrics_coin.png)
-![General Metrics Table](images/metrics_soi.png)
+<h3>Sample Graphs - Long-Short Metrics Chart</h3>
+<img src="images/lsplot_buyuk.png" alt="Sample Graphs - Long-Short Metrics Chart" width="500"/>
+
+<h3>Coin Metrics Table</h3>
+<img src="images/metrics_coin.png" alt="Coin Metrics Table" width="500"/>
+
+<h3>General Metrics Table</h3>
+<img src="images/metrics_soi.png" alt="General Metrics Table" width="500"/>
+
+<h3>Settings Screen: Users could save and delete their favoruite commands and coins. Also, they could choose the image format of graphs. (Large / small / mobile). We stored all this preferences in our database.</h3>
+<img src="images/settings.png" alt="Settings" width="500"/>
+<img src="images/settings_file.png" alt="Settings" width="500"/>
+<img src="images/favs_delete.png" alt="Settings" width="500"/>
