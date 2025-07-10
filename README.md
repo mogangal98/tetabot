@@ -13,22 +13,20 @@ Before the WhaleWatcher website was ready, we needed a way to publicly demonstra
 
 
 <h2>What Tetabot Offered</h2>
-•	Instant access to key cryptocurrency market visualizations and tables.
-
-•	Simple, user friendly commands designed for quick insights.
-
-•	A completely free demo platform accessible anywhere Telegram is available.
-
+<ul>
+  <li>Instant access to key cryptocurrency market visualizations and tables.</li>
+  <li>Simple, user friendly commands designed for quick insights.</li>
+  <li>A completely free demo platform accessible anywhere Telegram is available.</li>
+</ul>
 While Telegram’s limitations impacted some UX aspects, Tetabot served as an effective ‘proof-of-concept’ tool, providing users with valuable data. It was open for access from 2024 to July 2025.
 
 
 <h2>Technical Highlights</h2>
-•	Built the backend data pipeline that powers the analytics and charts.
-
-•	Integrated real time market data from various APIs and WebSocket streams.
-
-•	Explored and even integrated third party payment systems for monetization but decided to not to do that for this demo phase.
-
+<ul>
+  <li>Built the backend data pipeline that powers the analytics and charts.</li>
+  <li>Integrated real time market data from various APIs and WebSocket streams.</li>
+  <li>Explored and even integrated third party payment systems for monetization, but decided not to include them in this demo phase.</li>
+</ul>
 
 
 <h2>Screenshots</h2>
